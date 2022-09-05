@@ -1,0 +1,46 @@
+.container{
+    position: relative;
+    top: 50px;
+    left: 500px;
+    height:400px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+.logo{
+    text-align: center;
+}
+
+.input{
+    position: inherit;
+    left: 20px;
+}
+
+.button{
+    position: inherit;
+    left: 30px;
+    background-color: aquamarine;
+}
+.button:hover{
+    background-color: white;
+}   
+
+.todo-list{
+    text-align: center;
+}
+
+.list{
+    position: inherit;
+    left: 50px;
+    list-style-type: none;
+}
+
+.remove{
+    position: inherit;
+    left: 110px;
+    background-color: aquamarine;
+}
+
+.remove:hover{
+    background-color: white;
+}
